@@ -12,6 +12,7 @@
   "author": "Jesus <jesusplasencia2508@hotmail.com>",
   "license": "ISC",
   "dependencies": {
+    "node-fetch": "^3.3.0",
     "xmlhttprequest": "^1.8.0"
   }
 }
